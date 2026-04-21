@@ -17,18 +17,12 @@
 Dijivo provides **SEO, digital marketing, and web development solutions**.
 We build scalable systems, WordPress-based products, and modern web applications.
 
----
-
 ## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,nodejs,html,css,mysql,git,linux" />
 </p>
 
----
-
 ## Philosophy
 
 Simple. Scalable. Effective.
-
----
