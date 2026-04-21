@@ -19,25 +19,6 @@ We build scalable systems, WordPress-based products, and modern web applications
 
 ---
 
-## Services
-
-* SEO & Digital Marketing
-* Web Design & Development
-* WordPress Development (Themes & Plugins)
-* PHP-based Software Solutions
-
----
-
-## Open Source
-
-We develop and share:
-
-* CLI tools
-* Web applications
-* WordPress plugins
-
----
-
 ## Tech Stack
 
 <p>
