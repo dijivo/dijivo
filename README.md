@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Active-black?style=for-the-badge" />
 </p>
 
----
-
 ## About Dijivo
 
 Dijivo provides **SEO, digital marketing, and web development solutions**.
