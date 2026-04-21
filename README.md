@@ -1,9 +1,9 @@
-<h1 align="center">Dijivo</h1>
-<p align="center">
+<h1>Dijivo</h1>
+<p>
   SEO • Marketing • Web Development • Open Source
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/SEO-Marketing-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WordPress-PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=for-the-badge" />
@@ -40,7 +40,7 @@ We develop and share:
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,nodejs,html,css,mysql,git,linux" />
 </p>
 
